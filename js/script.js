@@ -4,7 +4,7 @@ const menuImages = [
     'img/cardapio-3.jpeg',
     'img/cardapio-4.jpeg',
     'img/cardapio-5.jpeg',
-    'img/Cardapio-6.jpg',
+    'img/Cardapio-6.jpeg',
     'img/cardapio-7.jpeg',
     'img/cardapio-8.jpeg',
     'img/cardapio-9.jpeg',
